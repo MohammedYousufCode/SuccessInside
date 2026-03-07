@@ -1,3 +1,6 @@
+Note : Hackathon project – built in 24 hours with AI assistance to speed up development.
+
+
 <div align="center">
   <img src="public/logo.png" alt="Success Inside Logo" width="120" height="120">
   
